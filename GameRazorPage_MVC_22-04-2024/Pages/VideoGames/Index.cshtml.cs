@@ -24,6 +24,9 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.VideoGames
         [BindProperty(SupportsGet = true)]
         public string? SearchString { get; set; }
 
+        [BindProperty(SupportsGet = true)]
+        public string? SearchRate { get; set; }
+
         public SelectList? Genres { get; set; }
 
         [BindProperty(SupportsGet = true)]
