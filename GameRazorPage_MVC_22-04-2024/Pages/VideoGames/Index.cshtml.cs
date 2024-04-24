@@ -34,19 +34,28 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.VideoGames
 
         public async Task OnGetAsync()
         {
-            // добавляем функцию описка
+            // добавляем функцию поиска
+            // Use LINQ to get list of genres.
+            IQueryable<string> genreQuery = from m in _context.VideoGame
+                                            orderby m.Title,m.Description
+                                            select m.Title;
+
             var movies = from m in _context.VideoGame
                          select m;
+
             if (!string.IsNullOrEmpty(SearchString))
             {
-                movies = movies.Where(s => s.Title.Contains(SearchString));
+                movies = movies.Where(s => s.Title.Contains(SearchString) || s.Description.Contains(SearchString));
             }
 
+            if (!string.IsNullOrEmpty(MovieGenre))
+            {
+                movies = movies.Where(x => x.Title == MovieGenre);
+            }
+            Genres = new SelectList(await genreQuery.Distinct().ToListAsync());
             VideoGame = await movies.ToListAsync();
-
-
             // выводим список из базы
-            VideoGame = await _context.VideoGame.ToListAsync();
+            //VideoGame = await _context.VideoGame.ToListAsync();
         }
     }
 }

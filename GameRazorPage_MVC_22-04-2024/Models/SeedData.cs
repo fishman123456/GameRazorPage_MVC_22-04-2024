@@ -35,7 +35,7 @@ namespace GameRazorPage_MVC_22_04_2024.Models
                     new VideoGame
                     {
                         Title = "Call of dutty",
-                        Description = "Стрелялка",
+                        Description = "Strike",
                         Price = 450,
                         ReleaseDate = DateTime.Parse("1962-2-12"),
                         Rate = 212,

@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameRazorPage_MVC_22_04_2024
 build_property.RootNamespace = GameRazorPage_MVC_22_04_2024
-build_property.ProjectDir = C:\Users\Fishman\Documents\GitHub\GameRazorPage_MVC_22-04-2024\GameRazorPage_MVC_22-04-2024\
+build_property.ProjectDir = D:\Github\GameRazorPage_MVC_22-04-2024\GameRazorPage_MVC_22-04-2024\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Fishman\Documents\GitHub\GameRazorPage_MVC_22-04-2024\GameRazorPage_MVC_22-04-2024
+build_property.MSBuildProjectDirectory = D:\Github\GameRazorPage_MVC_22-04-2024\GameRazorPage_MVC_22-04-2024
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Error.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Index.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Privacy.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Create.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Delete.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Details.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Edit.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Index.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/VideoGames/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlkZW9HYW1lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/_ViewImports.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/_ViewStart.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Fishman/Documents/GitHub/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Shared/_Layout.cshtml]
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l4e50amo9o
