@@ -31,6 +31,24 @@ namespace GameRazorPage_MVC_22_04_2024.Models
                         ReleaseDate = DateTime.Parse("1989-2-12"),
                         Rate = 2,
                         CopiesSold = 2
+                    },
+                    new VideoGame
+                    {
+                        Title = "Call of dutty",
+                        Description = "Стрелялка",
+                        Price = 450,
+                        ReleaseDate = DateTime.Parse("1962-2-12"),
+                        Rate = 212,
+                        CopiesSold = 2444
+                    },
+                    new VideoGame
+                    {
+                        Title = "Mario",
+                        Description = "Dendy",
+                        Price = 45,
+                        ReleaseDate = DateTime.Parse("1991-1-10"),
+                        Rate = 111,
+                        CopiesSold = 555555
                     }
                 ); ;
                 context.SaveChanges();
