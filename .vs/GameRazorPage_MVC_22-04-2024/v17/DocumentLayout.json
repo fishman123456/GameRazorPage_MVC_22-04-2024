@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\videogames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\videogames\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|solutionrelative:gamerazorpage_mvc_22-04-2024\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAB36BB5-C6B0-42D4-94F8-AB94F850E50D}|GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024.csproj|d:\\github\\gamerazorpage_mvc_22-04-2024\\gamerazorpage_mvc_22-04-2024\\pages\\videogames\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -63,27 +87,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml.cs",
-              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml.cs",
-              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwBkAAAAAAAAA",
+              "Title": "20240425172730_init.cs",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Migrations\\20240425172730_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:07:44.816Z",
+              "WhenOpened": "2024-04-25T17:27:30.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:23:38.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:23:30.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Error.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:23:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:23:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:23:22.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml",
               "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml",
               "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml",
               "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\VideoGames\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T15:50:16.264Z",
+              "WhenOpened": "2024-04-25T17:22:55.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameRazorPage_MVC_22-04-2024\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Github\\GameRazorPage_MVC_22-04-2024\\GameRazorPage_MVC_22-04-2024\\Pages\\Index.cshtml",
+              "RelativeToolTip": "GameRazorPage_MVC_22-04-2024\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:21:52.22Z",
               "EditorCaption": ""
             }
           ]

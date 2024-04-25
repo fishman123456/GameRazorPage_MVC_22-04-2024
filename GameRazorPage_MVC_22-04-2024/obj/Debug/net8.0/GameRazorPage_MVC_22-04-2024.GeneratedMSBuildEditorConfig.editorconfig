@@ -30,6 +30,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Feedbacks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Feedbacks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Feedbacks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Feedbacks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Feedbacks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmVlZGJhY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Github/GameRazorPage_MVC_22-04-2024/GameRazorPage_MVC_22-04-2024/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

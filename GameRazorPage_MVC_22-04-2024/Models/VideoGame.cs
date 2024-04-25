@@ -9,7 +9,8 @@
         public DateTime ReleaseDate { get; set; }
         public float Rate { get; set; }
         public int CopiesSold {  get; set; }
-
+        
+        public ICollection<Feedback>? Feedbacks { get; set; }
         public VideoGame() { }
 
         public override string ToString()

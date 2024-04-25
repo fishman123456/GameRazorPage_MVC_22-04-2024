@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameRazorPage_MVC_22-04-2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8648a7fbf7a22163e5575a4f5e5a6c3db733fbf2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba3155ebe4e0e59da57e400f86a0f5f7ff5ebc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameRazorPage_MVC_22-04-2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameRazorPage_MVC_22-04-2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

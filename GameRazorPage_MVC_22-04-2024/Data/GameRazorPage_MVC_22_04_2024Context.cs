@@ -15,5 +15,6 @@ namespace GameRazorPage_MVC_22_04_2024.Data
         }
 
         public DbSet<GameRazorPage_MVC_22_04_2024.Models.VideoGame> VideoGame { get; set; } = default!;
+        public DbSet<GameRazorPage_MVC_22_04_2024.Models.Feedback> Feedback { get; set; } = default!;
     }
 }

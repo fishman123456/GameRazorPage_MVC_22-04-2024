@@ -22,6 +22,34 @@ namespace GameRazorPage_MVC_22_04_2024.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.Feedback", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("LastUpdateTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Rating")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Text")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("VideoGameId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("VideoGameId");
+
+                    b.ToTable("Feedback");
+                });
+
             modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.VideoGame", b =>
                 {
                     b.Property<int>("Id")
@@ -53,6 +81,22 @@ namespace GameRazorPage_MVC_22_04_2024.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("VideoGame");
+                });
+
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.Feedback", b =>
+                {
+                    b.HasOne("GameRazorPage_MVC_22_04_2024.Models.VideoGame", "VideoGame")
+                        .WithMany("Feedbacks")
+                        .HasForeignKey("VideoGameId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("VideoGame");
+                });
+
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.VideoGame", b =>
+                {
+                    b.Navigation("Feedbacks");
                 });
 #pragma warning restore 612, 618
         }

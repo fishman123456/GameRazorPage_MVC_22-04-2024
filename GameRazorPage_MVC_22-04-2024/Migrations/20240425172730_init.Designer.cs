@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GameRazorPage_MVC_22_04_2024.Migrations
 {
     [DbContext(typeof(GameRazorPage_MVC_22_04_2024Context))]
-    [Migration("20240422170023_init")]
+    [Migration("20240425172730_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -24,6 +24,34 @@ namespace GameRazorPage_MVC_22_04_2024.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.Feedback", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("LastUpdateTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("Rating")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Text")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("VideoGameId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("VideoGameId");
+
+                    b.ToTable("Feedback");
+                });
 
             modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.VideoGame", b =>
                 {
@@ -56,6 +84,22 @@ namespace GameRazorPage_MVC_22_04_2024.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("VideoGame");
+                });
+
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.Feedback", b =>
+                {
+                    b.HasOne("GameRazorPage_MVC_22_04_2024.Models.VideoGame", "VideoGame")
+                        .WithMany("Feedbacks")
+                        .HasForeignKey("VideoGameId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("VideoGame");
+                });
+
+            modelBuilder.Entity("GameRazorPage_MVC_22_04_2024.Models.VideoGame", b =>
+                {
+                    b.Navigation("Feedbacks");
                 });
 #pragma warning restore 612, 618
         }
