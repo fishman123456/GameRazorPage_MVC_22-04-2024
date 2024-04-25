@@ -9,7 +9,7 @@ namespace GameRazorPage_MVC_22_04_2024.Models
         public int Id { get; set; }
         public string Text { get; set; } = string.Empty;
         public int Rating { get; set; }
-        public DateTime LastUpdateTime { get; set; }
+        public DateTime LastUpdateTime { get; set; } 
         public int VideoGameId { get; set; }
        public Feedback() {}
         public VideoGame? VideoGame { get; set; }

@@ -22,7 +22,7 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.Feedbacks
 
         [BindProperty]
         public Feedback Feedback { get; set; } = default!;
-
+        
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)
@@ -36,7 +36,7 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.Feedbacks
                 return NotFound();
             }
             Feedback = feedback;
-           ViewData["VideoGameId"] = new SelectList(_context.VideoGame, "Id", "Id");
+           ViewData["VideoGameId"] = new SelectList(_context.VideoGame, "Id", "Title");
             return Page();
         }
 
@@ -53,6 +53,7 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.Feedbacks
 
             try
             {
+                Feedback.LastUpdateTime = DateTime.Now;
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)

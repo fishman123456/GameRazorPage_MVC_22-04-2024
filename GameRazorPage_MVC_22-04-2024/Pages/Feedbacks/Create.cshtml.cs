@@ -21,7 +21,7 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.Feedbacks
 
         public IActionResult OnGet()
         {
-        ViewData["VideoGameId"] = new SelectList(_context.VideoGame, "Id", "Id");
+        ViewData["VideoGameId"] = new SelectList(_context.VideoGame, "Id", "Title");
             return Page();
         }
 
@@ -37,6 +37,7 @@ namespace GameRazorPage_MVC_22_04_2024.Pages.Feedbacks
             }
 
             _context.Feedback.Add(Feedback);
+            Feedback.LastUpdateTime = DateTime.Now;
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
